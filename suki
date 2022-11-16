@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html name="chenrui">
+<html name="练习3">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title></title>
 </head>
 <script>
     var num=1,n=4,m=1;
